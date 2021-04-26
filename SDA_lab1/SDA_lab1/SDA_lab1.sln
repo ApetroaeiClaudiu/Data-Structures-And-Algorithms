@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDA_lab1", "SDA_lab1\SDA_lab1.vcxproj", "{690C1D55-69B3-4A90-ACF6-12A0D1B30217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Debug|x64.ActiveCfg = Debug|x64
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Debug|x64.Build.0 = Debug|x64
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Debug|x86.ActiveCfg = Debug|Win32
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Debug|x86.Build.0 = Debug|Win32
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Release|x64.ActiveCfg = Release|x64
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Release|x64.Build.0 = Release|x64
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Release|x86.ActiveCfg = Release|Win32
+		{690C1D55-69B3-4A90-ACF6-12A0D1B30217}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67C85EA-2058-4F0B-B206-641FA0557A62}
+	EndGlobalSection
+EndGlobal

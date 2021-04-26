@@ -1,0 +1,5 @@
+﻿  MDO.cpp
+d:\visual studio\sda_labs\lab7\lab7\mdo.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  TestScurt.cpp
+  Generating Code...
+  lab7.vcxproj -> D:\Visual Studio\sda_labs\lab7\Debug\lab7.exe

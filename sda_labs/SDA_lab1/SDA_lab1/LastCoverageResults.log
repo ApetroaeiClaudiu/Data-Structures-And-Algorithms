@@ -1,0 +1,18 @@
+[2019-03-24 16:22:44] [info] Start Program:
+Path:"D:\Visual Studio\SDA_lab1\Debug\SDA_lab1.exe"
+Arguments:
+Working directory: "D:\Visual Studio\SDA_lab1\SDA_lab1\"
+Modules: Selected: D:\Visual Studio\SDA_lab1\Debug\SDA_lab1.exe Excluded: 
+Sources: Selected: D:\Visual Studio\SDA_lab1\SDA_lab1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\apetr\AppData\Local\Temp\zxu2vwri.ym0 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-24 16:22:44] [info] Module: D:\Visual Studio\SDA_lab1\Debug\SDA_lab1.exe is selected because it matches selected pattern: D:\Visual Studio\SDA_lab1\Debug\SDA_lab1.exe
